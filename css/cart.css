@@ -1,0 +1,162 @@
+.big1
+{
+	margin-top:20px;
+	//margin-bottom:40px;
+	margin-left:20px;
+	//background-color:white;
+	height:590px;
+	width:1300px;
+}
+.big2
+{
+	float:left;	
+	//background-color:yellow;
+	height:590px;
+	width:950px;
+}
+.big3
+{
+	float:left;
+	margin-left:40px;
+	background-color:white;
+	height:600px;
+	width:300px;
+}
+.heading
+{
+	margin-top:10px;
+	margin-bottom:40px;
+	margin-left:80px;
+	height:50px;
+	width:800px;
+}
+.side
+{
+	float:right
+	margin-right:80px;
+	//background-color:black;
+	height:100px;
+	width:100px;
+}
+.buttons
+{
+	text-align:center;
+	margin-top:4px;
+	border-radius:10px;
+	height:27px;
+	width:73px;
+	box-shadow:2px 2px 5px black;
+}
+.box1
+{
+	margin-top:20px;
+	margin-left:80px;
+	//background-color:black;
+	height:150px;
+	width:850px;
+}
+.box2
+{
+	margin-top:20px;
+	margin-left:80px;
+	//background-color:black;
+	height:150px;
+	width:850px;
+}
+.box3
+{
+	margin-top:20px;
+	margin-left:80px;
+	//background-color:black;
+	height:150px;
+	width:850px;
+}
+.item1
+{
+	float:left;
+	//background-color:white;
+	height:150px;
+	width:270px;
+}
+.item2
+{
+	float:left;
+	margin-left:10px;
+	//background-color:white;
+	height:150px;
+	width:270px;
+}
+.item3
+{
+	float:left;
+	margin-left:10px;
+	//background-color:white;
+	height:150px;
+	width:270px;	
+}	
+.itembox
+{
+	float:left;
+	height:120px;
+	width:150px;
+	//background-color:red;
+	box-shadow:5px 5px 10px black;
+}
+.vegdetails
+{
+	float:left;
+	height:120px;
+	width:115px;
+	background-color:green;
+	box-shadow:5px 5px 10px black;
+}
+.nonvegdetails
+{
+	float:left;
+	height:120px;
+	width:115px;
+	background-color:red;
+	box-shadow:5px 5px 10px black;
+}
+.billitem
+{
+	float:left;
+	height:45px;
+	width:300px;
+	background-color:white;
+}
+.item_in_bill
+{
+	float:left;
+	height:45px;
+	width:160px;
+	background-color:yellow;
+}
+.quantity
+{
+	float:left;
+	height:45px;
+	width:60px;
+	background-color:green;
+}
+.price
+{
+	float:left;
+	height:45px;
+	width:60px;
+	background-color:red;
+}
+.equal
+{
+	float:left;
+	height:45px;
+	width:20px;
+	background-color:yellow;
+}
+.totalprice
+{
+	float:left;
+	height:45px;
+	width:300px;
+	background-color:blue;
+}

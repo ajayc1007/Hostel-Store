@@ -1,0 +1,25 @@
+div
+{
+	//background-color:white;
+	width:500px;
+	height:200px;
+	margin-top:110px;
+}
+.box1
+{		
+	float:left;
+	margin-left:430px;
+	text-align:center;
+}
+.buttons
+{
+	margin-left:10px;
+	margin-right:10px;
+	width:220px;	
+	height:100px;
+	font-family: 'Open Sans',sans-serif;
+	font-weight: 300;
+	font-size:50px;
+	border-radius:50px;
+	box-shadow:3px 5px 5px black;
+}
